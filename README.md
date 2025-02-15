@@ -1,3 +1,7 @@
+# SS of page
+![image](https://github.com/user-attachments/assets/270b9e9d-ddcc-41a2-b6bf-9fd8018f612b)
+
+
 # 6cricket
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
